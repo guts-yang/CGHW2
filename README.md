@@ -9,6 +9,7 @@
 - 2x2超采样反走样（Super-sampling Anti-aliasing）
 - 深度缓冲（Z-buffer）可见性判断
 - MVP变换矩阵（模型、视图、透视投影）
+<img width="855" height="535" alt="image" src="https://github.com/user-attachments/assets/19715793-03a1-4916-ae6a-9558bcd32fa8" />
 
 ### 算法特性
 - 基于bounding box的高效像素遍历
